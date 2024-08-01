@@ -1,0 +1,22 @@
+{
+  "name": "3813ictwk3",
+  "version": "1.0.0",
+  "description": "Week 3 lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NMGriff/week3-workshop.git"
+  },
+  "author": "Nathan Maaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NMGriff/week3-workshop/issues"
+  },
+  "homepage": "https://github.com/NMGriff/week3-workshop#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
